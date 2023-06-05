@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "761419719088",
+    "project_id": "flutt-notes-first-app",
+    "storage_bucket": "flutt-notes-first-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761419719088:android:96e6a37b28123a4436f675",
+        "android_client_info": {
+          "package_name": "com.domain.app_first"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761419719088-d1tjnbif96ttcit9ff3v9vat829j9tff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkc0Vhtp1ybwS6qWEWR5LJydg9sng3_Cw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761419719088-d1tjnbif96ttcit9ff3v9vat829j9tff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
